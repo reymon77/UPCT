@@ -1,4 +1,4 @@
-FECHA;Meteo_Madrid.Vel viento (m/s);Meteo_Madrid.Temperatura (ºC);Meteo_Madrid.Presion barometrica (mb);Meteo_Madrid.Precipitacion (l/m2);M30.UsuariosCalle30 (veh);M30.vehxKmTotales;M30.vehxKmRamales;SO2 (µg/m 3);CO (mg/m3);NO (µg/m3);NO2 (µg/m 3);NOx (µg/m3);PM2.5 (µg/m3);PM10 (µg/m3);O3 (µg/m 3);TOL (µg/m3);BEN (µg/m3);EBE (µg/m3);TCH (mg/m3);CH4 (mg/m3);NMHC (mg/m3)
+FECHA;Meteo_Madrid.Vel viento (m/s);Meteo_Madrid.Temperatura (C);Meteo_Madrid.Presion barometrica (mb);Meteo_Madrid.Precipitacion (l/m2);M30.UsuariosCalle30 (veh);M30.vehxKmTotales;M30.vehxKmRamales;SO2 (µg/m 3);CO (mg/m3);NO (µg/m3);NO2 (µg/m 3);NOx (µg/m3);PM2.5 (µg/m3);PM10 (µg/m3);O3 (µg/m 3);TOL (µg/m3);BEN (µg/m3);EBE (µg/m3);TCH (mg/m3);CH4 (mg/m3);NMHC (mg/m3)
 01/01/2018;6,1;7,3;957,9;0;842530;5187934;1372216;3;0,3;3;24;30;4,5;13;50;0,45;0,4;0,1;1,22;1,17;0,03
 02/01/2018;7,2;10,5;958,2;0;1319122;8143651;2208081;3;0,3;9;33,5;46,5;5;10;40,5;0,9;0,35;0,1;1,24;1,19;0,04
 03/01/2018;3,9;10,8;957,7;0;1309927;8080076;2154909;3;0,4;20,5;39;73;7;10,5;18,5;1,65;0,5;0,2;1,38;1,34;0,04
